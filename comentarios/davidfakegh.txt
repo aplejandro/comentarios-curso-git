@@ -1,2 +1,3 @@
 Soy David Quintanar
 Yo creo que fue un curso bueno
+Soy Ivan Alejandro y considero que fue un buen curso, pues a pesar de que ya conocia git me sirvio para aterrizar algunos conceptos y conocer el flujo de trabajo correcto, ademas del manejo de ramas y contribuciones que me causaban confusion. 
